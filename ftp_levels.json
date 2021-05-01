@@ -1,0 +1,49 @@
+{
+"programs":[
+{
+         "status":"Bronze",
+         "entry_miles":10000,
+         "purchase_offers":true,
+         "easy check-in":true,
+         "flight amenities": false,
+         "leisure_experiences": false,
+         "lounge": false,
+         "quick_boarding": false,
+         "VIP_treatment": false
+},
+
+{  
+         "status":"Silver",
+         "entry_miles":25000,
+         "purchase_offers":true,
+         "easy check-in":true,
+         "flight amenities": true,
+         "leisure_experiences": false,
+         "lounge": false,
+         "quick_boarding": false,
+         "VIP_treatment": false
+},
+{  
+         "status":"Gold",
+         "entry_miles":50000,
+         "purchase_offers":true,
+         "easy check-in":true,
+         "flight amenities": true,
+         "leisure_experiences": true,
+         "lounge": true,
+         "quick_boarding": false,
+         "VIP_treatment": false
+},
+{  
+         "status":"Diamant",
+         "entry_miles":100000,
+         "purchase_offers":true,
+         "easy check-in":true,
+         "flight amenities": true,
+         "leisure_experiences": true,
+         "lounge": true,
+         "quick_boarding": true,
+         "VIP_treatment": true
+}              
+]
+}

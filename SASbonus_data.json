@@ -1,0 +1,202 @@
+{
+     "passenger": [
+          {
+               "id": 37,
+               "firstname": "Lucky",
+               "lastname": "Luke",
+               "member": true,
+               "program_status": 2,
+               "miles": 33240,
+               "member_type": "Silver",
+               "flights": [],
+               "admin": false
+          },
+          {
+               "id": 14,
+               "firstname": "Hugh",
+               "lastname": "Hefner",
+               "member": true,
+               "program_status": 1,
+               "miles": 760240,
+               "member_type": "Diamant",
+               "flights": [],
+               "admin": false
+          },
+          {
+               "id": 3,
+               "firstname": "Audrey",
+               "lastname": "Hepburn",
+               "member": true,
+               "program_status": 3,
+               "miles": 6240,
+               "member_type": "None",
+               "flights": [],
+               "admin": false
+          },
+          {
+               "id": 72,
+               "firstname": "John",
+               "lastname": "Wayne",
+               "member": false,
+               "program_status": 0,
+               "miles": 0,
+               "member_type": "None",
+               "flights": [],
+               "admin": false
+          },
+          {
+               "id": 22,
+               "firstname": "Sophia",
+               "lastname": "Loren",
+               "member": true,
+               "program_status": 1,
+               "miles": 325430,
+               "member_type": "Diamant",
+               "flights": [],
+               "admin": false
+          },
+          {
+               "id": 56,
+               "firstname": "Bette",
+               "lastname": "Davis",
+               "member": true,
+               "program_status": 3,
+               "miles": 6024,
+               "member_type": "None",
+               "flights": [],
+               "admin": false
+          },
+          {
+               "id": 1,
+               "firstname": "Chuck",
+               "lastname": "Norris",
+               "member": true,
+               "program_status": 1,
+               "miles": 99999999,
+               "member_type": "Diamant",
+               "flights": [],
+               "admin": false
+          },
+          {
+               "id": 97,
+               "firstname": "Marlon",
+               "lastname": "Brando",
+               "member": true,
+               "program_status": 2,
+               "miles": 60240,
+               "member_type": "Gold",
+               "flights": [],
+               "admin": false
+          },
+          {
+               "id": 5,
+               "firstname": "Meryl",
+               "lastname": "Streep",
+               "member": true,
+               "program_status": 1,
+               "miles": 160240,
+               "member_type": "Diamant",
+               "flights": [],
+               "admin": false
+          },
+          {
+               "id": 33,
+               "firstname": "Simone",
+               "lastname": "Signoret",
+               "member": true,
+               "program_status": 2,
+               "miles": 23777,
+               "member_type": "Bronze",
+               "flights": [],
+               "admin": false
+          },
+          {
+               "id": 47,
+               "firstname": "Diane",
+               "lastname": "Keaton",
+               "member": true,
+               "program_status": 2,
+               "miles": 18009,
+               "member_type": "Bronze",
+               "flights": [],
+               "admin": false
+          },
+          {
+               "id": 96,
+               "firstname": "Robert",
+               "lastname": "Redford",
+               "member": true,
+               "program_status": 1,
+               "miles": 160240,
+               "member_type": "Diamant",
+               "flights": [],
+               "admin": false
+          },
+          {
+               "id": 31,
+               "firstname": "Hans",
+               "lastname": "Gruber",
+               "member": true,
+               "program_status": 1,
+               "miles": 322655,
+               "member_type": "Diamant",
+               "flights": [],
+               "admin": false
+          },
+          {
+               "id": 40,
+               "firstname": "Freddy",
+               "lastname": "Krueger",
+               "member": false,
+               "program_status": 0,
+               "miles": 0,
+               "member_type": "None",
+               "flights": [],
+               "admin": false
+          },
+          {
+               "id": 63,
+               "firstname": "Sarah",
+               "lastname": "Connor",
+               "member": true,
+               "program_status": 1,
+               "miles": 760240,
+               "member_type": "Diamant",
+               "flights": [],
+               "admin": false
+          },
+          {
+               "id": 293,
+               "firstname": "Andreas",
+               "lastname": "Koefoed",
+               "member": true,
+               "program_status": 0,
+               "miles": 10000,
+               "member_type": "Bronze",
+               "flights": [],
+               "admin": true
+          },
+          {
+               "id": 140,
+               "firstname": "Bo",
+               "lastname": "Markussen",
+               "member": false,
+               "program_status": 0,
+               "miles": 0,
+               "member_type": "None",
+               "flights": [],
+               "admin": false
+          },
+          {
+               "id": 130,
+               "firstname": "Filip",
+               "lastname": "Oerum-Petersen",
+               "member": true,
+               "program_status": 100,
+               "miles": 100000000,
+               "member_type": "Diamant",
+               "flights": [],
+               "admin": true
+          }
+     ]
+}

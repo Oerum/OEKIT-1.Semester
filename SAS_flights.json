@@ -1,0 +1,49 @@
+{"flights":[
+{
+         "id": 0,
+         "destination":"CPH-ATH",
+         "miles":1330
+},
+
+{
+         "id": 1,
+         "destination":"CPH-BLL",
+         "miles":119
+},
+{
+         "id": 2,
+         "destination":"AAR-AGP",
+         "miles":1328
+},
+{
+         "id": 3,
+         "destination":"AAR-SPU",
+         "miles":917
+},
+{
+         "id": 4,
+         "destination":"CPH-PEK",
+         "miles":4470
+},
+{
+        "id": 5,
+         "destination":"BLL-OSL",
+         "miles":316
+},
+{
+         "id": 6,
+         "destination":"AAR-ARN",
+         "miles":308
+},
+{
+         "id": 7,
+         "destination":"CPH-BOS",
+         "miles":3190
+},
+{
+         "id": 8,
+         "destination":"CPH-MPL",
+         "miles":917
+}
+]
+}
